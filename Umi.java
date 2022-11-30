@@ -1,4 +1,4 @@
-public class Umi {
-  private int umi = 0;
-  private int[][] RegUmi = new int[48][48];
+public interface Umi {
+  public int umi = 0;
+  public int[][] RegUmi = new int[48][48];
 }

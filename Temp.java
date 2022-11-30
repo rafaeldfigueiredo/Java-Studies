@@ -1,4 +1,4 @@
-public class Temp {
-  private int temp = 0;
-  private int[][] RegInt = new int[48][48];
+public interface Temp {
+  public int temp = 0;
+  public int[][] RegInt = new int[48][48];
 }
